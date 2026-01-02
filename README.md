@@ -193,5 +193,4 @@ Open an issue, suggest UI changes, PR bugfixes, or even propose new payment meth
 
 ---
 
-**Ready to try? Spin it up—pay your fees, chat with classmates, and see the blockchain proof for yourself! 🚀**#   b e c b i l l d e s k a l p h a  
- 
+**Ready to try? Spin it up—pay your fees, chat with classmates, and see the blockchain proof for yourself! 🚀**
